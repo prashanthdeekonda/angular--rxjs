@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "html.format.wrapAttributes": "force-aligned",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4
+}
